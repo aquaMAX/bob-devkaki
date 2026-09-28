@@ -1,0 +1,30 @@
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:65 Processing transaction for Customer(id=C001, name=Ahmad Bin Abdullah, ic=900101-01-1234, email=ahmad@example.com, phone=012-3456789, account=12345678901234)
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:65 Processing transaction for Customer(id=C001, name=Ahmad Bin Abdullah, ic=900101-01-1234, email=ahmad@example.com, phone=012-3456789, account=12345678901234)
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:65 Processing transaction for Customer(id=C001, name=Ahmad Bin Abdullah, ic=900101-01-1234, email=ahmad@example.com, phone=012-3456789, account=12345678901234)
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:65 Processing transaction for Customer(id=C001, name=Ahmad Bin Abdullah, ic=900101-01-1234, email=ahmad@example.com, phone=012-3456789, account=12345678901234)
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+ERROR    sample.customer_service:customer_service.py:96 Card update failed: Invalid card for request: {'customer_id': 'C001', 'card': '1234'}
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:117 Sending notification to ahmad@example.com: Your statement is ready.
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:117 Sending notification to ops-support@internalbank.com.my: Hello
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+INFO     sample.customer_service:customer_service.py:117 Sending notification to siti@example.com: Transaction approved.
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
+DEBUG    sample.customer_service:customer_service.py:45 Fetching customer, last known IC was 900101-01-1234
